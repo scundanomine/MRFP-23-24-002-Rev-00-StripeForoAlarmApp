@@ -1,19 +1,19 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/stripe-foro-alarm-app/node_modules
-/stripe-foro-alarm-app/.pnp
+/node_modules
+/.pnp
 .pnp.js
 
 # testing
-/stripe-foro-alarm-app/coverage
+/coverage
 
 # next.js
-/stripe-foro-alarm-app/.next/
-/stripe-foro-alarm-app/out/
+/.next/
+/out/
 
 # production
-/stripe-foro-alarm-app/build
+/build
 
 # misc
 .DS_Store
